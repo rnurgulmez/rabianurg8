@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Rabia Nur Gülmez</h1>
 <h3 align="center">A passionate frontend and mobile developer from Turkey</h3>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **java**
 
 - 👨‍💻 All of my projects are available at [my github profile](my github profile)
 
